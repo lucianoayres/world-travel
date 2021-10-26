@@ -1,0 +1,382 @@
+{
+  "categories": [
+    {
+      "title": "vida noturna",
+      "imageUrl": "/icon/nightLife.svg"
+    },
+    {
+      "title": "praia",
+      "imageUrl": "/icon/beach.svg"
+    },
+    {
+      "title": "moderno",
+      "imageUrl": "/icon/modern.svg"
+    },
+    {
+      "title": "clássico",
+      "imageUrl": "/icon/classic.svg"
+    },
+    {
+      "title": "more",
+      "imageUrl": "/icon/more.svg"
+    }
+  ],
+  "slides": [
+    {
+      "heading": "Europa",
+      "subheading": "O continente mais antigo",
+      "imageUrl": "/slide/europe.jpg",
+      "link": "/europa"
+    },
+    {
+      "heading": "América do Norte",
+      "subheading": "O sonho americano.",
+      "imageUrl": "/slide/america.jpg",
+      "link": "/america-do-norte"
+    },
+    {
+      "heading": "América do Sul",
+      "subheading": "Sol e Praia.",
+      "imageUrl": "/slide/southAmerica.jpg",
+      "link": "/america-do-sul"
+    },
+    {
+      "heading": "Ásia",
+      "subheading": "O continente misterioso.",
+      "imageUrl": "/slide/asia.jpg",
+      "link": "/asia"
+    },
+    {
+      "heading": "África",
+      "subheading": "O continente selvagem.",
+      "imageUrl": "/slide/africa.jpg",
+      "link": "/africa"
+    },
+    {
+      "heading": "Oceania",
+      "subheading": "O novíssimo continente.",
+      "imageUrl": "/slide/oceania.jpg",
+      "link": "/oceania"
+    }
+  ],
+  "continents": [
+    {
+      "name": "Europa",
+      "slug": "europa",
+      "bgImageUrl": "/banner/europe.jpg",
+      "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+      "stats": [
+        {
+          "value": 50,
+          "label": "cidades"
+        },
+        {
+          "value": 60,
+          "label": "línguas"
+        },
+        {
+          "value": 27,
+          "label": "+100 cidades",
+          "infoText": "As 100 cidades mais visitadas"
+        }
+      ],
+      "cities": [
+        {
+          "imageUrl": "/city/paris.png",
+          "name": "Paris",
+          "country": "França",
+          "countryImageUrl": "/avatar/france.png"
+        },
+        {
+          "imageUrl": "/city/london.png",
+          "name": "Londres",
+          "country": "Reino Unido",
+          "countryImageUrl": "/avatar/uk.svg"
+        },
+        {
+          "imageUrl": "/city/rome.png",
+          "name": "Roma",
+          "country": "Itália",
+          "countryImageUrl": "/avatar/italy.svg"
+        },
+        {
+          "imageUrl": "/city/prague.png",
+          "name": "Praga",
+          "country": "República Tcheca",
+          "countryImageUrl": "/avatar/czechRepublic.svg"
+        },
+        {
+          "imageUrl": "/city/amsterdan.png",
+          "name": "Amsterdã",
+          "country": "Holanda",
+          "countryImageUrl": "/avatar/netherlands.svg"
+        }
+      ]
+    },
+    {
+      "name": "América do Norte",
+      "slug": "america-do-norte",
+      "bgImageUrl": "/banner/america.jpg",
+      "description": "A América do Norte é um subcontinente que compreende a porção setentrional do continente americano. Existem duas formas de classificar esse continente: a primeira considera que a América do Norte é apenas a parte mais setentrional da América, separada da América Central na fronteira entre o México e a Guatemala, a segunda classificação reconhece apenas uma América do Norte e uma América do Sul, traçando o limite no Istmo do Panamá.",
+      "stats": [
+        {
+          "value": 44,
+          "label": "cidades"
+        },
+        {
+          "value": 10,
+          "label": "línguas"
+        },
+        {
+          "value": 18,
+          "label": "+100 cidades",
+          "infoText": "As 100 cidades mais visitadas"
+        }
+      ],
+      "cities": [
+        {
+          "imageUrl": "/city/newYork.png",
+          "name": "Nova Iorque",
+          "country": "EUA",
+          "countryImageUrl": "/avatar/usa.svg"
+        },
+        {
+          "imageUrl": "/city/miami.png",
+          "name": "Miami",
+          "country": "EUA",
+          "countryImageUrl": "/avatar/usa.svg"
+        },
+        {
+          "imageUrl": "/city/losAngeles.png",
+          "name": "Los Angeles",
+          "country": "EUA",
+          "countryImageUrl": "/avatar/usa.svg"
+        },
+        {
+          "imageUrl": "/city/toronto.png",
+          "name": "Toronto",
+          "country": "Canadá",
+          "countryImageUrl": "/avatar/canada.svg"
+        },
+        {
+          "imageUrl": "/city/vancouver.png",
+          "name": "Vancouver",
+          "country": "Canadá",
+          "countryImageUrl": "/avatar/canada.svg"
+        }
+      ]
+    },
+    {
+      "name": "América do Sul",
+      "slug": "america-do-sul",
+      "bgImageUrl": "/banner/southAmerica.jpg",
+      "description": "A América do Sul é um continente localizado, como o nome indica, no hemisfério sul do planeta. Ele está conectado à América do Norte pela América Central. O território latino, como é chamado, é delimitado à leste pelo oceano Atlântico. Ao oeste, encontramos o oceano Pacífico e, ao norte, o mar das Antilhas.",
+      "stats": [
+        {
+          "value": 42,
+          "label": "cidades"
+        },
+        {
+          "value": 12,
+          "label": "línguas"
+        },
+        {
+          "value": 19,
+          "label": "+100 cidades",
+          "infoText": "As 100 cidades mais visitadas"
+        }
+      ],
+      "cities": [
+        {
+          "imageUrl": "/city/buenosAires.png",
+          "name": "Buenos Aires",
+          "country": "Argentina",
+          "countryImageUrl": "/avatar/argentina.svg"
+        },
+        {
+          "imageUrl": "/city/rio.png",
+          "name": "Rio de Janeiro",
+          "country": "Brasil",
+          "countryImageUrl": "/avatar/brazil.svg"
+        },
+        {
+          "imageUrl": "/city/montevideo.png",
+          "name": "Montevidéu",
+          "country": "Uruguai",
+          "countryImageUrl": "/avatar/uruguay.svg"
+        },
+        {
+          "imageUrl": "/city/santiago.png",
+          "name": "Santiago",
+          "country": "Chile",
+          "countryImageUrl": "/avatar/chile.svg"
+        },
+        {
+          "imageUrl": "/city/sanPaolo.png",
+          "name": "São Paulo",
+          "country": "Brasil",
+          "countryImageUrl": "/avatar/brazil.svg"
+        }
+      ]
+    },
+    {
+      "name": "África",
+      "slug": "africa",
+      "bgImageUrl": "/banner/africa.jpg",
+      "description": "A África é o terceiro continente mais extenso com cerca de 30 milhões de quilômetros quadrados, cobrindo 20,3% da área total da terra firme do planeta. É o segundo continente mais populoso da Terra com cerca de um bilhão de pessoas, representando cerca de um sétimo da população mundial, e 54 países independentes.",
+      "stats": [
+        {
+          "value": 25,
+          "label": "cidades"
+        },
+        {
+          "value": 62,
+          "label": "línguas"
+        },
+        {
+          "value": 12,
+          "label": "+100 cidades",
+          "infoText": "As 100 cidades mais visitadas"
+        }
+      ],
+      "cities": [
+        {
+          "imageUrl": "/city/johannesburg.png",
+          "name": "Joanesburgo",
+          "country": "África do Sul",
+          "countryImageUrl": "/avatar/southAfrica.svg"
+        },
+        {
+          "imageUrl": "/city/capeTown.png",
+          "name": "Cidade do Cabo",
+          "country": "África do Sul",
+          "countryImageUrl": "/avatar/southAfrica.svg"
+        },
+        {
+          "imageUrl": "/city/cairo.png",
+          "name": "Cairo",
+          "country": "Egito",
+          "countryImageUrl": "/avatar/egypt.png"
+        },
+        {
+          "imageUrl": "/city/lagos.png",
+          "name": "Lagos",
+          "country": "Nigéria",
+          "countryImageUrl": "/avatar/nigeria.svg"
+        },
+        {
+          "imageUrl": "/city/casablanca.png",
+          "name": "Casablanca",
+          "country": "Marrocos",
+          "countryImageUrl": "/avatar/morocco.svg"
+        }
+      ]
+    },
+    {
+      "name": "Oceania",
+      "slug": "oceania",
+      "bgImageUrl": "/banner/oceania.jpg",
+      "description": "A Oceania é um continente localizado ao sudeste da Ásia, banhado pelos oceanos Índico e Pacífico. É o menor dentre os continentes, o mais isolado e, por isso, o último a ser descoberto e conquistado pelos europeus, sendo por isso chamado de novíssimo mundo.",
+      "stats": [
+        {
+          "value": 34,
+          "label": "cidades"
+        },
+        {
+          "value": 16,
+          "label": "línguas"
+        },
+        {
+          "value": 15,
+          "label": "+100 cidades",
+          "infoText": "As 100 cidades mais visitadas"
+        }
+      ],
+      "cities": [
+        {
+          "imageUrl": "/city/sydney.png",
+          "name": "Sydney",
+          "country": "Austrália",
+          "countryImageUrl": "/avatar/australia.svg"
+        },
+        {
+          "imageUrl": "/city/melbourne.png",
+          "name": "Melbourne",
+          "country": "Austrália",
+          "countryImageUrl": "/avatar/australia.svg"
+        },
+        {
+          "imageUrl": "/city/auckland.png",
+          "name": "Auckland",
+          "country": "Nova Zelândia",
+          "countryImageUrl": "/avatar/newZealand.png"
+        },
+        {
+          "imageUrl": "/city/suva.png",
+          "name": "Suva",
+          "country": "Fiji",
+          "countryImageUrl": "/avatar/fiji.png"
+        },
+        {
+          "imageUrl": "/city/perth.png",
+          "name": "Perth",
+          "country": "Australia",
+          "countryImageUrl": "/avatar/australia.svg"
+        }
+      ]
+    },
+    {
+      "name": "Ásia",
+      "slug": "asia",
+      "bgImageUrl": "/banner/asia.jpg",
+      "description": "A Ásia é o maior dos continentes, tanto em área como em população. Abrange um terço das partes sólidas da superfície da Terra e é responsável por abrigar quase três quintos da população mundial. A Ásia faz fronteira no lado ocidental com a África e com a Europa, e no lado oriental com o oceano Pacífico, a Oceania e, em menor proporção, com a América do Norte, pelo Estreito de Bering.",
+      "stats": [
+        {
+          "value": 98,
+          "label": "cidades"
+        },
+        {
+          "value": 89,
+          "label": "línguas"
+        },
+        {
+          "value": 42,
+          "label": "+100 cidades",
+          "infoText": "As 100 cidades mais visitadas"
+        }
+      ],
+      "cities": [
+        {
+          "imageUrl": "/city/tokyo.png",
+          "name": "Tóquio",
+          "country": "Japão",
+          "countryImageUrl": "/avatar/japan.svg"
+        },
+        {
+          "imageUrl": "/city/dubai.png",
+          "name": "Dubai",
+          "country": "Emirados Árabes",
+          "countryImageUrl": "/avatar/emirates.svg"
+        },
+        {
+          "imageUrl": "/city/seoul.png",
+          "name": "Seul",
+          "country": "Coréia do Sul",
+          "countryImageUrl": "/avatar/southKorea.svg"
+        },
+        {
+          "imageUrl": "/city/beijing.png",
+          "name": "Pequim",
+          "country": "China",
+          "countryImageUrl": "/avatar/china.svg"
+        },
+        {
+          "imageUrl": "/city/hanoi.png",
+          "name": "Hanói",
+          "country": "Vietnã",
+          "countryImageUrl": "/avatar/vietnam.svg"
+        }
+      ]
+    }
+  ]
+}
